@@ -30,4 +30,4 @@ Currently a student who is exploring different tech domains and trying to learn 
 
 <a href="http://www.github.com/hshekhar7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hshekhar7&stroke=ec4899&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ec4899&currStreakLabel=84cc16&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-<a href="http://www.github.com/hshekhar7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hshekhar7&bg_color=1c1917&color=ec4899&line=facc15&point=ec4899&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
