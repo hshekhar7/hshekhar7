@@ -8,7 +8,7 @@ Currently a student who is exploring different tech domains and trying to learn 
 
 * 🌍  I'm based in Jalandhar, India
 * ✉️  You can contact me at [hshekhar7.com@gmail.com](mailto:hshekhar7.com@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning <em>Frontend</em> as of now.
 
 ### Skills
 
